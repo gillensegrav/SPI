@@ -15,7 +15,7 @@ library(glue)
 library(odbc)
 library(DBI)
 library(knitr)
-library(ggthemes) # Load
+library(ggthemes)
 library(ggplot2)
 library(dplyr)
 library(RODBC)
